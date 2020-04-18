@@ -11,6 +11,7 @@ code {
     monospace;
 }
 
+
 :root {
   --bg:  #242526;
   --bg-accent: #484a4d;
@@ -18,7 +19,7 @@ code {
   --nav-size: 60px;
   --border: 1px solid #474a4d;
   --border-radius: 8px;
-  --speed: 500ms;
+  --speed: 500ms; 
 }
 
 ul {
