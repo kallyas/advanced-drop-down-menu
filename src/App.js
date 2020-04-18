@@ -117,6 +117,7 @@ function DropdownMenu() {
 
       <CSSTransition
         in={activeMenu === 'animals'}
+        
         timeout={500}
         classNames="menu-secondary"
         unmountOnExit
